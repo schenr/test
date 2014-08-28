@@ -1,0 +1,26 @@
+
+public class person implements readNumbers{
+	int i = 10;
+	int age;
+	public person(int age) {
+		// TODO Auto-generated constructor stub
+		this.age = age; 
+	}
+	public String job(){
+		return "No job";
+	}
+	public int age(){
+		return age;
+	}
+	public void readOne() {
+		System.out.println("Person: One");
+		
+	}
+	public void readTwo() {
+		System.out.println("Person: Two");
+		
+	}
+
+	public void readThree() {
+		System.out.println("Person: Three");	}
+}
