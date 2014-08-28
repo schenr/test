@@ -1,0 +1,449 @@
+inform:0.04454343
+project:0.042316258
+workshop:0.033407573
+ecir:0.024498885
+search:0.022271715
+confer:0.020044543
+research:0.020044543
+engin:0.017817372
+retriev:0.017817372
+school:0.017817372
+extract:0.0155902
+languag:0.0155902
+udo:0.0155902
+develop:0.013363029
+essex:0.013363029
+sigir:0.013363029
+univers:0.013363029
+web:0.013363029
+industri:0.011135858
+information retriev:0.011135858
+knowledg:0.011135858
+method:0.011135858
+solut:0.011135858
+student:0.011135858
+access:0.008908686
+acl:0.008908686
+book:0.008908686
+comput:0.008908686
+computer sci:0.008908686
+direct:0.008908686
+electron:0.008908686
+electronic engin:0.008908686
+future direct:0.008908686
+intellig:0.008908686
+irf:0.008908686
+pebl-ai:0.008908686
+review:0.008908686
+scienc:0.008908686
+springer:0.008908686
+springer book:0.008908686
+techniqu:0.008908686
+acm:0.0066815144
+applic:0.0066815144
+data:0.0066815144
+dai:0.0066815144
+document:0.0066815144
+dr:0.0066815144
+group:0.0066815144
+ieee/wic/acm:0.0066815144
+ieee/wic/acm international confer:0.0066815144
+iiix:0.0066815144
+intellig:0.0066815144
+intern:0.0066815144
+kruschwitz:0.0066815144
+natural language engin:0.0066815144
+ranlp:0.0066815144
+udo kruschwitz:0.0066815144
+ypa:0.0066815144
+aaai:0.004454343
+action:0.004454343
+articl:0.004454343
+commun:0.004454343
+comput:0.004454343
+computation group:0.004454343
+creation:0.004454343
+directori:0.004454343
+document:0.004454343
+ecir 2014:0.004454343
+email:0.004454343
+exampl:0.004454343
+flatland:0.004454343
+form:0.004454343
+gamif:0.004454343
+hybrid:0.004454343
+hypertext:0.004454343
+implement:0.004454343
+interest:0.004454343
+ir:0.004454343
+jobserv:0.004454343
+journal:0.004454343
+lrec:0.004454343
+member:0.004454343
+miss:0.004454343
+number:0.004454343
+part:0.004454343
+popul:0.004454343
+program:0.004454343
+project:0.004454343
+public:0.004454343
+research interest:0.004454343
+resourc:0.004454343
+scenario:0.004454343
+stair:0.004454343
+such techniqu:0.004454343
+track:0.004454343
+translat:0.004454343
+type:0.004454343
+user:0.004454343
+util:0.004454343
+work:0.004454343
+world:0.004454343
+14 august 2013:0.0022271716
+1997-2012:0.0022271716
+2008:0.0022271716
+3sq:0.0022271716
+aaai 2013 student program:0.0022271716
+aaai 2014 student program:0.0022271716
+aberdeen:0.0022271716
+ac.uk:0.0022271716
+acl 2010:0.0022271716
+acl 2010 student research workshop:0.0022271716
+acl 2013 workshop:0.0022271716
+acl hlt 2011 student sess:0.0022271716
+acm cikm 2010:0.0022271716
+acm computing review:0.0022271716
+acm hypertext workshop:0.0022271716
+activ:0.0022271716
+active web solut:0.0022271716
+adapt:0.0022271716
+adindla:0.0022271716
+alarfaj:0.0022271716
+albakour:0.0022271716
+alghamdi:0.0022271716
+alhindi:0.0022271716
+althoba:0.0022271716
+anaphorically annotated resourc:0.0022271716
+annot:0.0022271716
+annotation gam:0.0022271716
+an:0.0022271716
+ans alghamdi:0.0022271716
+antai:0.0022271716
+application program:0.0022271716
+applic:0.0022271716
+approach:0.0022271716
+articl:0.0022271716
+assist:0.0022271716
+assisted information seek:0.0022271716
+associ:0.0022271716
+august:0.0022271716
+automated interfac:0.0022271716
+automat:0.0022271716
+automatic adapt:0.0022271716
+autumn:0.0022271716
+autumn 2013 irsg newslett:0.0022271716
+azhar:0.0022271716
+azhar alhindi:0.0022271716
+bar:0.0022271716
+behaviour:0.0022271716
+blog:0.0022271716
+browsing behaviour:0.0022271716
+career:0.0022271716
+career path framework:0.0022271716
+centr:0.0022271716
+challeng:0.0022271716
+chamberlain:0.0022271716
+chang:0.0022271716
+cikm:0.0022271716
+clef:0.0022271716
+clef 2014 news recommender challeng:0.0022271716
+clinical commissioner group:0.0022271716
+co4:0.0022271716
+co4 3sq:0.0022271716
+colchest:0.0022271716
+collect:0.0022271716
+commission:0.0022271716
+compani:0.0022271716
+comput:0.0022271716
+conceptual inform:0.0022271716
+conference report:0.0022271716
+consortium:0.0022271716
+context:0.0022271716
+corpora:0.0022271716
+corpu:0.0022271716
+corpus profiling workshop 2008:0.0022271716
+creat:0.0022271716
+creating cross-language resourc:0.0022271716
+cross-languag:0.0022271716
+current project:0.0022271716
+current/recent involv:0.0022271716
+cutting edge enterprise information system:0.0022271716
+deirdr:0.0022271716
+detect:0.0022271716
+developed method:0.0022271716
+digit:0.0022271716
+digital lifestyles centr:0.0022271716
+dir:0.0022271716
+dir 2013:0.0022271716
+disabl:0.0022271716
+disconnect:0.0022271716
+disconnected languages and styl:0.0022271716
+diza:0.0022271716
+doctor:0.0022271716
+doctoral consortium 2012:0.0022271716
+document collect:0.0022271716
+domain:0.0022271716
+domain model:0.0022271716
+domain:0.0022271716
+dr deirdre lunglei:0.0022271716
+dr m-dyaa albakour:0.0022271716
+dr mahmoud el-haj:0.0022271716
+eacl:0.0022271716
+eacl 2012 joint workshop:0.0022271716
+ecai:0.0022271716
+ecai 2010:0.0022271716
+ecir 2008:0.0022271716
+ecir 2010:0.0022271716
+ecir 2010 industry dai:0.0022271716
+ecir 2011:0.0022271716
+ecir 2011 industry dai:0.0022271716
+ecir 2012:0.0022271716
+ecir 2012 industry dai:0.0022271716
+ecir 2012 workshop:0.0022271716
+ecir 2013:0.0022271716
+ecml/pkdd:0.0022271716
+ecml/pkdd workshop:0.0022271716
+edg:0.0022271716
+el-haj:0.0022271716
+engag:0.0022271716
+engin:0.0022271716
+engineering issu:0.0022271716
+engin:0.0022271716
+enquiri:0.0022271716
+enrich:0.0022271716
+enterpris:0.0022271716
+environ:0.0022271716
+essex languag:0.0022271716
+essex search engin:0.0022271716
+eswc:0.0022271716
+eswc 2013:0.0022271716
+evalu:0.0022271716
+experi:0.0022271716
+fawaz:0.0022271716
+fawaz alarfaj:0.0022271716
+fax:0.0022271716
+fax +44-1206-872788:0.0022271716
+first internet recruitment servic:0.0022271716
+forum:0.0022271716
+framework:0.0022271716
+future intelligent home environ:0.0022271716
+game:0.0022271716
+gapbetween:0.0022271716
+gapbetween research commun:0.0022271716
+gordon:0.0022271716
+group:0.0022271716
+high-level:0.0022271716
+high-level information extraction 2008:0.0022271716
+hlt:0.0022271716
+home:0.0022271716
+hybrid approach:0.0022271716
+hybrid machine transl:0.0022271716
+iconfer:0.0022271716
+iconference 2014:0.0022271716
+ictir:0.0022271716
+ictir 2009:0.0022271716
+iiix 2010:0.0022271716
+iiix 2012:0.0022271716
+iiix 2014:0.0022271716
+ijcnlp:0.0022271716
+ijcnlp 2013:0.0022271716
+industry track presentations onlin:0.0022271716
+information access 2008:0.0022271716
+information access 2009:0.0022271716
+information access 2011:0.0022271716
+information access 2013:0.0022271716
+information infrastructure project:0.0022271716
+information interact:0.0022271716
+inform:0.0022271716
+infrastructur:0.0022271716
+intelligent directory enquiry assistant project:0.0022271716
+intelligent directory enquiry project:0.0022271716
+intelligent docu:0.0022271716
+intelligent document retriev:0.0022271716
+intelligent mail serv:0.0022271716
+intelligent problem solv:0.0022271716
+interact:0.0022271716
+interact:0.0022271716
+interactive qa 2009:0.0022271716
+interactive search and brows:0.0022271716
+interfac:0.0022271716
+internet:0.0022271716
+involv:0.0022271716
+ipswich:0.0022271716
+ipswich based compani:0.0022271716
+ir 2013:0.0022271716
+irf conference 2010:0.0022271716
+irf conference 2011:0.0022271716
+irf conference 2012:0.0022271716
+irf conference 2013:0.0022271716
+irsg:0.0022271716
+issu:0.0022271716
+issu:0.0022271716
+itnow:0.0022271716
+jcdl:0.0022271716
+jcdl 2015:0.0022271716
+joint:0.0022271716
+jon:0.0022271716
+jon chamberlain:0.0022271716
+knowledge extract:0.0022271716
+knowledge structur:0.0022271716
+konven:0.0022271716
+konvens 2012:0.0022271716
+kosta:0.0022271716
+kostas diza:0.0022271716
+ktp:0.0022271716
+ktp associ:0.0022271716
+languag:0.0022271716
+large-scale evalu:0.0022271716
+last chang:0.0022271716
+learning disabilities data:0.0022271716
+lectur:0.0022271716
+lifestyl:0.0022271716
+lrec 2012 workshop:0.0022271716
+lrec 2014:0.0022271716
+lunglei:0.0022271716
+m-dyaa:0.0022271716
+machin:0.0022271716
+maha:0.0022271716
+maha althoba:0.0022271716
+mahmoud:0.0022271716
+mail:0.0022271716
+major rol:0.0022271716
+markup-based knowledge extraction project:0.0022271716
+martinez-alvarez:0.0022271716
+mb:0.0022271716
+mbs group:0.0022271716
+miguel:0.0022271716
+miguel martinez-alvarez:0.0022271716
+minuc:0.0022271716
+minucs 2009:0.0022271716
+mmm:0.0022271716
+mmm 2014:0.0022271716
+model:0.0022271716
+more:0.0022271716
+multilingu:0.0022271716
+naacl:0.0022271716
+naacl student research workshop:0.0022271716
+natural language process:0.0022271716
+new knowledge transfer partnership project:0.0022271716
+new project:0.0022271716
+new:0.0022271716
+newslett:0.0022271716
+newspap:0.0022271716
+newspaper articl:0.0022271716
+nodalida:0.0022271716
+nodalida 2009:0.0022271716
+onlin:0.0022271716
+ontolog:0.0022271716
+open:0.0022271716
+open univers:0.0022271716
+page:0.0022271716
+park:0.0022271716
+partially structured data:0.0022271716
+partnership:0.0022271716
+path:0.0022271716
+patient:0.0022271716
+patient experi:0.0022271716
+paun:0.0022271716
+personalis:0.0022271716
+personalised multilingual hypertext retriev:0.0022271716
+phd:0.0022271716
+phd student:0.0022271716
+phrase:0.0022271716
+phrase detect:0.0022271716
+present:0.0022271716
+problem:0.0022271716
+process:0.0022271716
+profil:0.0022271716
+program:0.0022271716
+public:0.0022271716
+public engagement blogs project:0.0022271716
+qa:0.0022271716
+queri:0.0022271716
+query sess:0.0022271716
+ranlp 2007:0.0022271716
+ranlp 2009:0.0022271716
+ranlp 2013:0.0022271716
+real appl:0.0022271716
+recent research/development project:0.0022271716
+recommend:0.0022271716
+recruit:0.0022271716
+report:0.0022271716
+research inform:0.0022271716
+research/develop:0.0022271716
+retrieval task:0.0022271716
+review:0.0022271716
+robert:0.0022271716
+robert gordon university aberdeen:0.0022271716
+role:0.0022271716
+roselin:0.0022271716
+roseline antai:0.0022271716
+saad:0.0022271716
+search solutions 2010:0.0022271716
+search solutions 2011:0.0022271716
+search solutions 2012:0.0022271716
+search solutions 2013:0.0022271716
+seek:0.0022271716
+select:0.0022271716
+selected publ:0.0022271716
+semantic wiki:0.0022271716
+semantically annotated corpora:0.0022271716
+senior lectur:0.0022271716
+server:0.0022271716
+servic:0.0022271716
+session:0.0022271716
+session:0.0022271716
+sharhida:0.0022271716
+sharhida saad:0.0022271716
+sigir 2007:0.0022271716
+sigir 2012 industry track:0.0022271716
+sigir 2013:0.0022271716
+sigir 2013 bars workshop:0.0022271716
+sigir 2013 enrich workshop:0.0022271716
+sigir forum:0.0022271716
+silviu:0.0022271716
+silviu paun:0.0022271716
+single-shot text:0.0022271716
+solv:0.0022271716
+special issu:0.0022271716
+stairs 2010:0.0022271716
+stairs 2012:0.0022271716
+structur:0.0022271716
+student:0.0022271716
+style:0.0022271716
+such knowledg:0.0022271716
+suma:0.0022271716
+suma adindla:0.0022271716
+system:0.0022271716
+system:0.0022271716
+task:0.0022271716
+teach:0.0022271716
+technolog:0.0022271716
+tel:0.0022271716
+tel +44-1206-872669:0.0022271716
+text:0.0022271716
+transfer:0.0022271716
+two inform:0.0022271716
+udo @ essex:0.0022271716
+usable online system:0.0022271716
+vaguely/partially structured data:0.0022271716
+web intelligence 2011:0.0022271716
+web intelligence 2012:0.0022271716
+web intelligence 2013:0.0022271716
+web pag:0.0022271716
+web search technolog:0.0022271716
+wiki:0.0022271716
+wivenho:0.0022271716
+wivenhoe park:0.0022271716
+www:0.0022271716
+www 2011:0.0022271716

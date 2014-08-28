@@ -1,0 +1,8 @@
+public class printTest {
+    
+    public static void main(String args[]) { 
+        person p = new person(20);
+    	System.out.println(p.job()); 
+    } 
+
+}

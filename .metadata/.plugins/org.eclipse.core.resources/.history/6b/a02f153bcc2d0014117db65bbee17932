@@ -1,0 +1,12 @@
+
+public class student extends person{
+
+	public student(int age) {
+		super(age);
+		// TODO Auto-generated constructor stub
+	}
+	public String job(){
+		return "student";
+	}
+
+}

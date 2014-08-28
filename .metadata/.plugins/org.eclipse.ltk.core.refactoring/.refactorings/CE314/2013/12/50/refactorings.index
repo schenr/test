@@ -1,0 +1,6 @@
+1386611278437	Rename type 'backup'
+1386806911929	Rename local variable 'start'
+1386806959680	Rename local variable 'tokSpans'
+1386810006743	Rename method 'sortdescending'
+1386810040577	Rename local variable 'sortedEntries'
+1386810082555	Rename method 'stemTerm'

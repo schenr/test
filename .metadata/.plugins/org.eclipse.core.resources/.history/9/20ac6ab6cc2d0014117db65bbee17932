@@ -1,0 +1,13 @@
+public class printTest {
+    
+    public static void main(String args[]) { 
+        person p = new person(13);
+    	System.out.println(p.job()); 
+    	System.out.println(p.age()+" years old");
+    	
+    	person sd = new student(15);
+    	System.out.println(sd.age());
+    	System.out.println(sd.job());
+    } 
+
+}

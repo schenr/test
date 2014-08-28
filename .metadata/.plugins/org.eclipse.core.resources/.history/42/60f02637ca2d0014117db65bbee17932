@@ -1,0 +1,10 @@
+public class printTest {
+    public class person{
+    	int i = 10;
+    }
+    public static void main(String args[]) { 
+        person p = null;
+    	System.out.println(p.i); 
+    } 
+
+}

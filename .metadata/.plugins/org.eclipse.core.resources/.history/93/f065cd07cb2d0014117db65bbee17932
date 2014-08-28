@@ -1,0 +1,10 @@
+
+public class person {
+	int i = 10;
+	public String job(){
+		return "No job";
+	}
+	public int age(){
+		return 1;
+	}
+}

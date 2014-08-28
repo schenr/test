@@ -1,0 +1,7 @@
+public class printTest {
+	
+	public static void main(){
+		System.out.println("Test");
+	}
+	
+}

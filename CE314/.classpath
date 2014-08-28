@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/apache-opennlp-1.5.3-bin.zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/apache-opennlp-1.5.3-bin/apache-opennlp-1.5.3/lib/jwnl-1.3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/apache-opennlp-1.5.3-bin/apache-opennlp-1.5.3/lib/opennlp-maxent-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/apache-opennlp-1.5.3-bin/apache-opennlp-1.5.3/lib/opennlp-tools-1.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/apache-opennlp-1.5.3-bin/apache-opennlp-1.5.3/lib/opennlp-uima-1.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/jsoup-1.7.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/eclipse-standard-kepler-SR1-win32-x86_64/jericho-html-3.3/dist/jericho-html-3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/google-api-spelling-java-1.1-with-dependencies/google-api-spelling-java-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/jazzy-0.5.2.bin/jazzy-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/jazzy-0.5.2.bin/jazzy-examples.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/schenr/Desktop/CE314-Natrual/jazzy-0.5.2.bin/jazzy-swing.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

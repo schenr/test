@@ -1,0 +1,28 @@
+
+public class person implements readNumbers{
+	int i = 10;
+	int age;
+	public person(int age) {
+		// TODO Auto-generated constructor stub
+		this.age = age; 
+	}
+	public String job(){
+		return "No job";
+	}
+	public int age(){
+		return age;
+	}
+	public void readOne() {
+		// TODO Auto-generated method stub
+		
+	}
+	public void readTwo() {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void readThree() {
+		// TODO Auto-generated method stub
+		
+	}
+}
