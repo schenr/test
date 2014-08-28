@@ -10,6 +10,7 @@ public class printTest {
     	System.out.println(sd.job());
     	p.readOne();
     	sd.readOne();
+    	sd.readThree();
     } 
 
 }
